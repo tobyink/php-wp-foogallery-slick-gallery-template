@@ -13,7 +13,7 @@
  * @wordpress-plugin
  * Plugin Name: FooGallery - Slick
  * Description: Carousel using slick.js
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:       Toby Inkster
  * Author URI:  http://toby.ink/
  * License:     GPL-2.0+
@@ -24,7 +24,7 @@ if ( !class_exists( 'Slick_Template_FooGallery_Extension' ) ) {
 
 	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_FILE', __FILE__ );
 	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_URL', plugin_dir_url( __FILE__ ));
-	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_VERSION', '1.0.0');
+	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_VERSION', '1.1.0');
 	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_PATH', plugin_dir_path( __FILE__ ));
 	define('SLICK_TEMPLATE_FOOGALLERY_EXTENSION_SLUG', 'foogallery-slick');
 	
